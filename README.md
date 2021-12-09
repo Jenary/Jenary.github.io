@@ -7,7 +7,7 @@ I am an theoretical physics student a Imperial College London. My interest resea
 PROFILE:
 * Highly self-motivated researcher. 
 * Strong interpersonal skills with a good sense of teamwork.
-* Programming Skills: C/C++, Java, Python and Matlab.
+* Programming Skills: C/C++, Java, Python, Pytorch and Matlab.
 * Rich experience in modeling.
 
 ## For more information
