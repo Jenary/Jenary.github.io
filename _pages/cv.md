@@ -65,6 +65,6 @@ Chinese, English and Japanese
 
 Skills & Expertise 
 ======
-* Using pytorch to  .
-* Programming Skills: R, C/C++, and Python in both Unix and Windows systems.
+* Using pytorch to build deep learning network.
+* Programming Skills: C/C++, Python, Java and Matlab in both Unix and Windows systems.
 * Rich experience in modeling.
