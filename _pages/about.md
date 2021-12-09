@@ -20,10 +20,11 @@ I am an theoretical physics student a Imperial College London. My interest resea
 * Quantum Network/ Machine Learning
 
 <b>Research Highlights:</b>
-* Investigation about Orbit of Spacecraft around Mercury [Senior High School Extended Essay](https://github.com/Jenary/Jenary.github.io/blob/02a5e8fe5a5eb3d0b15382265731b4cf066d9d43/files/Investigation%20about%20Orbit%20of%20Spacecraft%20around%20Mercury.pdf)
-* Physical Random Number Generator: [Year 1 Research Project](https://doi.org/10.1016/j.envsoft.2020.104907)
-* Quantification of future changes in drought and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
+* Investigation about Orbit of Spacecraft around Mercury [Senior High School Extended Essay](https://github.com/Jenary/Jenary.github.io/blob/23db250ccd5a37c3f2ca526e51b55b8e8098ff8a/Project/Investigation%20about%20Orbit%20of%20Spacecraft%20around%20Mercury.pdf)
+* Physical Random Number Generator: [Year 1 Research Project](https://github.com/Jenary/Jenary.github.io/blob/23db250ccd5a37c3f2ca526e51b55b8e8098ff8a/Project/Physical%20Random%20Number%20Generator.pdf)
+* Elusive Nature of Quantum Hidden non-Markovianity [In Process]
+* Dynamics of Coupled Laser [In Process]
 
 
 ## For more information
-More info about Ze Jiang can be found in [CV](https://zejiang-unsw.github.io/cv/) or [downloaded CV](http://jenary.github.io/files/CV.pdf).
+More info about Yinghao Huang can be found in [CV](https://zejiang-unsw.github.io/cv/)
