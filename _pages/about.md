@@ -27,4 +27,4 @@ I am an theoretical physics student a Imperial College London. My interest resea
 
 
 ## For more information
-More info about Yinghao Huang can be found in [CV](https://zejiang-unsw.github.io/cv/)
+More info about Yinghao Huang can be found in [CV](https://jenary.github.io/cv/)
