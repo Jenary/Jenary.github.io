@@ -20,7 +20,7 @@ I am an theoretical physics student a Imperial College London. My interest resea
 * Quantum Network/ Machine Learning
 
 <b>Research Highlights:</b>
-* Investigation about Orbit of Spacecraft around Mercury [Senior High School Extended Essay](http://jenary.github.io/files/orbit-Mercury.pdf)
+* Investigation about Orbit of Spacecraft around Mercury [Senior High School Extended Essay, recommend to have a look](http://jenary.github.io/files/orbit-Mercury.pdf)
 * Physical Random Number Generator: [Year 1 Research Project](http://jenary.github.io/files/random-number-generator.pdf)
 * Elusive Nature of Quantum Hidden non-Markovianity [In Process]
 * Dynamics of Coupled Laser [In Process]
