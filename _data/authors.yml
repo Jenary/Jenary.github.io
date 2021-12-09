@@ -18,9 +18,9 @@ Name2 Name2:
   google_plus : "Name"
 
 Yinghao Huang:
-  name             : "Ze Jiang"
+  name             : "Yinghao Huang"
   avatar           : "profile.png"
-  bio              : "Msci Student @ICL, researcher in quantum information"
+  bio              : "Msci Student @ICL"
   location         : "London, United Kingdom"
   links:
     - label: "Email"
@@ -28,4 +28,4 @@ Yinghao Huang:
       url: "mailto:yh12218@ic.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://yinghaohuang.com"
+      url: "https://jenary.github.io"
