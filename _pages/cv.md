@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV ([Eng](http://jenary.github.io/files/CV_Eng.pdf)
+Download CV ([Eng](http://jenary.github.io/files/CV_Eng.pdf))
 ======
 
 Education
