@@ -8,6 +8,7 @@ venue: ''
 paperurl: 'http://jenary.github.io/files/random-number-generator.pdf'
 citation: ''
 ---
+This paper is about constructing a circuit that could generate random numbers.
 
 [Download paper here](http://jenary.github.io/files/random-number-generator.pdf)
 
