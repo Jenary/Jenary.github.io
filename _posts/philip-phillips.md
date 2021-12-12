@@ -1,11 +1,11 @@
 ---
 title: 'Solutions to Advanced solid State Physics by Philip Phillips'
 date: 2018-12-28
-permalink: /posts/philip/phillips
+permalink: /posts/philip/phillips/
 tags:
   - Solutions
 ---
-The writing and the deduction are a bit sloppy. I will fix it once I have time
+## The writing and the deduction are a bit sloppy. I will fix it once I have time
 
 [Chapter 2](http://jenary.github.io/files/Philip-Phillips/2.pdf)
 [Chapter 3](http://jenary.github.io/files/Philip-Phillips/3.pdf)
