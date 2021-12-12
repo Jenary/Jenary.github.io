@@ -1,5 +1,5 @@
 ---
-title: "Dynamics of Coupled Laser"
+title: "Dynamics of Coupled Laser [In Process]"
 collection: publications
 permalink: /publication/coupled-laser
 excerpt: 'This paper is about an the dynamical property of coupled laser system.'
