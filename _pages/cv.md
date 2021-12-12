@@ -60,7 +60,7 @@ Publications
   
 Languages
 ======
-Chinese, English and Japanese
+Chinese, English
 
 Skills & Expertise 
 ======
