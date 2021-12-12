@@ -3,7 +3,7 @@ title: "Elusive Nature of Quantum Hidden non-Markovianity [In Process]"
 collection: publications
 permalink: /publication/non-markovianity
 excerpt: 'This paper is about the specification of markovianity of the hidden quantum non-markovianity.'
-date: 
+date: 2022-06-15
 venue: ''
 paperurl: ''
 citation: ''
