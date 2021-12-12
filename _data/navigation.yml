@@ -18,7 +18,7 @@ main:
   - title: "CV"
     url: /cv/
     
- - title: "Software"
+  - title: "Software"
     url: /software/
 
   - title: "Notes"
