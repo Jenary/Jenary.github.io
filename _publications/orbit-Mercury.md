@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/orbit-Mercury
 excerpt: 'This paper is about to solve three-body dynamics system.'
 date: 2018-06-15
-venue: 'Astrophysics'
+venue: ''
 paperurl: 'http://jenary.github.io/files/orbit-Mercury.pdf'
 citation: ''
 ---
