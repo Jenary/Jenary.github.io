@@ -2,7 +2,7 @@
 title: "Investigation about Orbit of Spacecraft around Mercury"
 collection: publications
 permalink: http://jenary.github.io/files/orbit-Mercury.pdf
-excerpt: 'This paper is about time-area function model.'
+excerpt: 'This paper is about to solve three-body dynamics system.'
 date: 2018-06-15
 venue: 'Astrophysics'
 paperurl: 'http://jenary.github.io/files/orbit-Mercury.pdf'
