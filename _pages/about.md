@@ -12,7 +12,7 @@ This is Yinghao Huang's personal homepage.
 
 ## A short introduction
 I am an theoretical physics student a Imperial College London. My interest research area is quantum information science, with a focus on quantum information theory and quantum cryptography. I am interested in connections to mathematical physics, most importantly through the fields of matrix analysis and topology.  
-I am also very interested in Business, Philosophy, Art and History, you can find some of my articles in the Blog section. You can also find some of my notes and solutions to some textbooks in the Blog section.
+Besides physics, I am very interested in Business, Philosophy, Art, and History, and you can find some of my articles in the Blog section. You can also find some of my notes and solutions to some textbooks in the Blog section.
 
 
 <b>Research Interests:</b>
